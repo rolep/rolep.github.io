@@ -47,8 +47,8 @@ html:
 `SRE`
 `ETL`
 `PostgreSQL`
-`Python`
 `docker`
+`Python`
 `Architect`
 
 </td>
